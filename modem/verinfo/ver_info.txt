@@ -1,0 +1,29 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.7-00906-WAIPIO-1", 
+        "aop": "AOP.HO.4.0-00338-WAIPIO_E-1.485717.1", 
+        "apps_LE": "LE.UM.5.3.1.r1-09500-genericarmv8-64.0-1", 
+        "apps_kernel": "KERNEL.PLATFORM.1.0.r1-07800-kernel.0-1", 
+        "apps_qssi": "LA.QSSI.12.0.r1-06400.01-qssi.0-1", 
+        "apps_vendor": "LA.VENDOR.1.0.r1-11900-WAIPIO.0-1", 
+        "boot": "BOOT.MXF.2.0-00728-WAIPIO-1.487814.4", 
+        "btfm": "BTFW.HSP.2.1.0-00358-PATCHZ-1", 
+        "cdsp": "CDSP.HT.2.7-00766-WAIPIO-1.486875.1", 
+        "common": "Waipio.LA.1.0.r1-00776-STD.PROD-1", 
+        "cpucp": "CPUCP.FW.1.0-00077-WAIPIO.EXT-1", 
+        "cpuss_vm": "CPUSS.CPUSYS.VM.1.0-00018-WAIPIO.EXT-6", 
+        "glue": "GLUE.WAIPIO.LA.1.0-00269-NOOP_TEST_WAIPIO-1", 
+        "modem": "MPSS.DE.1.0-02392.3-WAIPIO_GEN_PACK-1", 
+        "slpi": "SLPI.HY.5.0-00180-WAIPIO-1", 
+        "slpi_spu": "SLPI.HY.5.0-00129-WAIPIO-1", 
+        "spss": "SPSS.A1.1.6-00066-WAIPIO-1", 
+        "tz": "TZ.XF.5.18-00134-SPF.WAIPIO-1.6426.9", 
+        "tz_apps": "TZ.APPS.1.18-00026-SPF.WAIPIO-2"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Waipio.LA.1.0.r1-00776-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2022-07-21 14:49:05"
+    }, 
+    "Version": "1.0"
+}

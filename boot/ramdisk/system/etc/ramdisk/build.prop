@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=m31
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-M315F
+ro.product.bootimage.name=m31nsxx
+ro.bootimage.build.date=Tue Aug  2 20:58:14 KST 2022
+ro.bootimage.build.date.utc=1659441494
+ro.bootimage.build.fingerprint=samsung/m31nsxx/m31:12/SP1A.210812.016/M315FXXU3CVH1:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=M315FXXU3CVH1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
